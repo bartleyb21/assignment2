@@ -1,0 +1,42 @@
+body {
+  background-color: #C1BFB5;
+}
+nav {
+  margin-bottom: 4em;
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #EB4511;
+}
+p {
+  font-family: 'Rokkitt', serif;
+  font-size: 1rem;
+}
+#canDO {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 6em;
+  border-bottom: 3px dashed red;
+  line-height: 1.2;
+  margin-left: 2.55em;
+  margin-right: 2.55em;
+  margin-bottom: 1em;
+}
+button {
+  width: 10em;
+}
+#B1 {
+  font-family: 'Montserrat', sans-serif;
+}
+#B2 {
+  font-family: 'Montserrat', sans-serif;
+}
+#B3 {
+  font-family: 'Montserrat', sans-serif;
+}
+#B4 {
+  font-family: 'Montserrat', sans-serif;
+}
+#Close {
+  width: 2em;
+}
